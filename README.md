@@ -12,5 +12,8 @@
 
 Apresente uma breve descrição do seu projeto.
 
-O meu aplicativo será o Google Bank em que o úsuario podera se autenticar com a sua conta no google e terá alguns recursos
-como area pix (para transferir valores) e emprestimo
+O meu aplicativo será o Google Bank, um aplicativo em que o úsuario podera se autenticar com a sua conta no google e terá alguns recursos
+como area pix (para transferir valores) e emprestimo. cujo a ideia seria apresentar um banco da empresa google.
+
+Link figma:
+https://www.figma.com/file/UhoKcZ3K72ylzSMH3s23ns/Google-Bank?node-id=0%3A1&t=vSvjoNWUKiVrdEsI-0
