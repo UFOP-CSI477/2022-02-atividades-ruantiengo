@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome:Ruan Tiengo Rocha  
+- Matrícula: 19.2.8050
+- Curso: Engenharia da computação
+- Semestre/Ano correntes: 2019/2
+- Link para o seu GitHub: github.com/ruantiengo
 
 ## [Projeto final:](./Projeto/README.md)
 
